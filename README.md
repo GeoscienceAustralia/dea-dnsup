@@ -1,4 +1,4 @@
-odc.apps.dnsup
+dea-dnsup
 ==============
 
 Command line utility to update DNS on route53 from EC2 instance
@@ -8,7 +8,7 @@ Installation
 ------------
 
 ```
-pip install --extra-index-url="https://packages.dea.ga.gov.au" dea-dnsup
+pip install dea-dnsup
 ```
 
 Usage
